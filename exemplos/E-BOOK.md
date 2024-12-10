@@ -1,20 +1,20 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Criptoativos e Geração de Valor Real 
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book de 12 páginas explora o mundo das blockchains e dos cripto ativos e seus usos no mundo real, bem como cuidados e orientações necessárias para quem deseja começar a investir. 
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+•	IA Generativa **[Microsoft Copilot](https://copilot.microsoft.com/)** para roteirização;
+•	IA Generativa **[Microsoft Copilot](https://copilot.microsoft.com/)** para criar a arte visual do e-book;
+•	Ferramenta **Microsoft Word** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o Copilot para revisar minha pesquisa sobre blockchains e dos criptos ativos. Ainda no Copilot estruturei o conteúdo e refinei minhas ideias. O Copilot também foi usado para gerar imagens exclusivas para esse e-book. No Word, fiz a diagramação e montagem final.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo bastante didático e envolvente possibilitando um ganho de conhecimento inicial necessário para os interessado nesse novo mundo, que envolve tecnologias recentes, mercado financeiro e finanças descentralizadas e muito mais, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+** [https://1drv.ms/b/s!Anb-ariQjBPHhe1NE6dqBEofKODusg?e=nUgzbO]
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+A criação deste e-book trouxe a percepção de como as IAs Generativas possibilitam ganho de velocidade na criação de conteúdo diversos, e como podem ser aplicadas em contextos diversos.
